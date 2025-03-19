@@ -1,0 +1,14 @@
+# Ignorer Vimeo API-nøgler og miljøvariabler
+.env
+
+# Ignorer Composer afhængigheder
+composer.json
+composer.lock
+vendor/
+
+# Ignorer generelle OS-specifikke og editor-filer
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+node_modules/
