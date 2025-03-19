@@ -8,8 +8,8 @@ Når en video uploades, returneres **status og et link til videoen**, når den e
 ✅ Simpel video-upload til Vimeo  
 ✅ Begrænser filstørrelsen til **max 100MB**  
 ✅ Viser en "loading"-tekst under upload.  
-✅ Returnerer Vimeo-link, når videoen er færdig
-✅ Video har fået dato-tid med landekode som titel
+✅ Returnerer Vimeo-link, når videoen er færdig  
+✅ Video har fået dato-tid med landekode som titel  
 ✅ Beskrivelsen på video har fået landenavn tilføjet
 
 ---
